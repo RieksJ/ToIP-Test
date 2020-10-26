@@ -32,6 +32,35 @@ revisions:
         usageInfo: ''
       parents: []
       timeCreated: 2020-10-26T19:01:20.910Z
+    '-2-eng':
+      object:
+        id: -2
+        language_code: eng
+        entry_status: valid
+        terms:
+          - designation: Agent
+            type: expression
+            partOfSpeech: noun
+            normative_status: preferred
+            grammaticalNumber: singular
+        definition: >-
+          an actor that is executing an action action on behalf of some party
+          (which we call the principal of that agent).
+        notes:
+          - >-
+            During the time interval in which the action is executed, the actor
+            may execute other actions in other execution-contexts, on behalf of
+            the same or another party. However, for the execution of a single
+            action, the actor is an agent for precisely one principal. It is
+            assumed that the principal provides its agents with the policies
+            that provide the agents with the rules, working-instructions,
+            preferences and other guidance that they need to comply with when
+            exeucting the action.
+        examples: []
+        authoritative_source:
+          link: 'https://essif-lab.pages.grnet.gr/framework/docs/terms/actor'
+      parents: []
+      timeCreated: 2020-10-26T19:02:30.840Z
 meta:
   registry:
     stage: Draft

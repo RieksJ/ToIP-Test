@@ -63,7 +63,7 @@ revisions:
       timeCreated: 2020-10-26T19:02:30.840Z
 meta:
   registry:
-    stage: Proposal
+    stage: Resolved
   submitter:
     primaryPerson:
       name: Rieks
@@ -119,3 +119,4 @@ _revisions:
       parents: []
       timeCreated: 2020-10-26T19:01:20.734Z
 timeSubmitted: 2020-10-26T19:21:36.517Z
+timeResolved: 2020-10-26T19:21:56.429Z

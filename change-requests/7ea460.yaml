@@ -4,7 +4,34 @@ author:
   name: Rieks
   email: rieks.joosten@tno.nl
 timeCreated: 2020-10-26T19:01:20.734Z
-revisions: {}
+revisions:
+  concepts:
+    '-1-eng':
+      object:
+        id: -1
+        language_code: eng
+        entry_status: valid
+        terms:
+          - designation: Actor
+            type: expression
+            partOfSpeech: noun
+            normative_status: preferred
+            grammaticalNumber: singular
+        definition: >-
+          Entity that is capable of actually executing actions (acting, doing
+          things).
+        notes:
+          - >-
+            An Actor is someone or something that can actually do things, such
+            as people or machines. Actors will generally do things, i.e. execute
+            actions in different ways, depending on the context, or the party
+            for whom they do this. 
+        examples: []
+        authoritative_source:
+          link: 'https://essif-lab.pages.grnet.gr/framework/docs/terms/actor'
+        usageInfo: ''
+      parents: []
+      timeCreated: 2020-10-26T19:01:20.910Z
 meta:
   registry:
     stage: Draft
@@ -24,7 +51,34 @@ _revisions:
           name: Rieks
           email: rieks.joosten@tno.nl
         timeCreated: 2020-10-26T19:01:20.734Z
-        revisions: {}
+        revisions:
+          concepts:
+            '-1-eng':
+              object:
+                id: -1
+                language_code: eng
+                entry_status: valid
+                terms:
+                  - designation: Actor
+                    type: expression
+                    partOfSpeech: noun
+                    normative_status: preferred
+                    grammaticalNumber: singular
+                definition: >-
+                  Entity that is capable of actually executing actions (acting,
+                  doing things).
+                notes:
+                  - >-
+                    An Actor is someone or something that can actually do
+                    things, such as people or machines. Actors will generally do
+                    things, i.e. execute actions in different ways, depending on
+                    the context, or the party for whom they do this. 
+                examples: []
+                authoritative_source:
+                  link: 'https://essif-lab.pages.grnet.gr/framework/docs/terms/actor'
+                usageInfo: ''
+              parents: []
+              timeCreated: 2020-10-26T19:01:20.910Z
         meta:
           registry:
             stage: Draft
